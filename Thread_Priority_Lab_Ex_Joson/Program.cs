@@ -16,7 +16,7 @@ namespace Thread_Priority_Lab_Ex_Joson
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmTrackThread());
         }
     }
 }
